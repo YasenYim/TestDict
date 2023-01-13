@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\TestDict\bin\Debug\netcoreapp3.1\TestDict.exe
+E:\Unity\NikoLua\Hello\TestDict\bin\Debug\netcoreapp3.1\TestDict.deps.json
+E:\Unity\NikoLua\Hello\TestDict\bin\Debug\netcoreapp3.1\TestDict.runtimeconfig.json
+E:\Unity\NikoLua\Hello\TestDict\bin\Debug\netcoreapp3.1\TestDict.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\TestDict\bin\Debug\netcoreapp3.1\TestDict.dll
+E:\Unity\NikoLua\Hello\TestDict\bin\Debug\netcoreapp3.1\TestDict.pdb
+E:\Unity\NikoLua\Hello\TestDict\obj\Debug\netcoreapp3.1\TestDict.csproj.AssemblyReference.cache
+E:\Unity\NikoLua\Hello\TestDict\obj\Debug\netcoreapp3.1\TestDict.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\TestDict\obj\Debug\netcoreapp3.1\TestDict.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\TestDict\obj\Debug\netcoreapp3.1\TestDict.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\TestDict\obj\Debug\netcoreapp3.1\TestDict.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\TestDict\obj\Debug\netcoreapp3.1\TestDict.dll
+E:\Unity\NikoLua\Hello\TestDict\obj\Debug\netcoreapp3.1\TestDict.pdb
+E:\Unity\NikoLua\Hello\TestDict\obj\Debug\netcoreapp3.1\TestDict.genruntimeconfig.cache
